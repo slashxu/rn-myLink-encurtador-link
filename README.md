@@ -7,9 +7,9 @@
 ![GitHub forks](https://img.shields.io/github/forks/slashxu/README-template?style=for-the-badge)
 
 <h3 align="center">
-<img src="./screenshots/01.PNG?raw=true" alt="img01" width="180px"/>
-<img src="./screenshots/02.PNG?raw=true" alt="img02" width="180px"/>
-<img src="./screenshots/03.PNG?raw=true" alt="img03" width="180px"/>
+<img src="./screenshots/01.png?raw=true" alt="img01" width="180px"/>
+<img src="./screenshots/02.png?raw=true" alt="img02" width="180px"/>
+<img src="./screenshots/03.png?raw=true" alt="img03" width="180px"/>
 </h3>
 
 > Projeto feito em React-native no curso do Sujeito programador consumindo API de encurtar links.
